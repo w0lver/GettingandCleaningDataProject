@@ -13,11 +13,9 @@
 > All values capture below are the mean of all the captured data of the grouping of subject and activity so either the mean of the means or the mean of the standard deviation.
 
 > tBodyAcc-mean()-X  
-
->> -    time mean of body linear acceleration on the x axis              
+> -    time mean of body linear acceleration on the x axis              
 > tBodyAcc-mean()-Y
-
->> -    time mean of body linear acceleration on the y axis                
+> -    time mean of body linear acceleration on the y axis                
 > tBodyAcc-mean()-Z   
 > -    time mean of body linear acceleration on the z axis             
 > tBodyAcc-std()-X  
@@ -174,6 +172,7 @@
 >  -   frequency Weighted mean body body gyroscopic jerk acceleration magnitude 
 > activity_code 
 >  -   Integer code for the following:
+
 >>     1 WALKING
 >>     2 WALKING_UPSTAIRS
 >>     3 WALKING_DOWNSTAIRS
