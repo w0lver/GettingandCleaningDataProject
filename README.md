@@ -3,7 +3,7 @@
 
 This script performs the following:
 <i>(Note this script requires the Samsung UCI HAR Dataset to be it the working directory)</i>
-> Loads dplyr library functions
+> Loads dplyr library functions >
 > Loads features file into data frame
 > Removes index column from features
 > Converts features from data frame to vector
